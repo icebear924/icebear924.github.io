@@ -116,7 +116,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Meet JS Park"
   location         : "Seoul, Korea"
-  email            :
+  email            : "jasnp24@gmail.com"
   links:
     - label: "jasnp24@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
