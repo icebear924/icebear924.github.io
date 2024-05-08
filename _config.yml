@@ -112,13 +112,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jinse Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Meet JS Park"
+  location         : "Seoul, Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "jasnp24@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
