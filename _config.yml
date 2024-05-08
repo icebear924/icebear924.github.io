@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Jinse Park"
-  avatar           : "/images/SCR-20240509-cjro.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Meet JS Park"
   location         : "Seoul, Korea"
   email            : "jasnp24@gmail.com"
