@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /categories/about-me/
   - title: "Portfolio"
-    url: /categories/Portfolio/
+    url: /categories/portfolio/
   - title: "Category"
     url: /categories/
   - title: "Search"
