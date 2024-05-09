@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "첫 포스팅 입니다"
+title: "Cover letter"
 categories: Who_am_I?
 
 author_profile: false
