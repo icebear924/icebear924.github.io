@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Who am I? (Resume)"
-categories: Resume
+title: "Resume"
+categories: Who_am_I?
 
 author_profile: false
 typora-root-url: ../
