@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: /categories/about-me/
   - title: "Category"
     url: /categories/
   - title: "Search"
