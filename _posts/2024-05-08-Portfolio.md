@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Portfolio"
-categories: portfolio
+categories: Portfolio
 
 author_profile: false
 typora-root-url: ../
