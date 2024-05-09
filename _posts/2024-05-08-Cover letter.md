@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cover letter"
-categories: Who_am_I
+categories: About_ME
 
 author_profile: false
 typora-root-url: ../
