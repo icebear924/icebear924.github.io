@@ -24,11 +24,12 @@ AI 개발자나 데이터 사이언티스트의 포트폴리오는 그들의 기
 
 ### 기술 스택
 - 프로그래밍 언어 (예: Python, R, Java)
-- 머신러닝/딥러닝 프레임워크 (예: TensorFlow, PyTorch)
-- 데이터 분석 및 시각화 도구 (예: Pandas, NumPy, Matplotlib, Seaborn)
-- 데이터베이스 관리 및 쿼리 언어 (예: SQL, NoSQL)
+- 머신러닝/딥러닝 프레임워크 (예: TensorFlow, PyTorch, scikit-learn, darts)
+- 데이터 분석 및 시각화 도구 (예: Pandas, NumPy, Matplotlib, Seaborn, plotly)
+- 데이터베이스 관리 및 쿼리 언어 (예: mySQL)
 - 클라우드 서비스 경험 (예: AWS, Google Cloud, Azure)
-- 협업 도구 (예: Git, Docker)
+- 협업 도구 (예: Git)
+- 크로스 플랫폼 어플 개발 도구: dart, flutter
 
 ### 프로젝트
 각 프로젝트에 대해 다음과 같은 정보를 포함시킵니다:
