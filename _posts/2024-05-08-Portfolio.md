@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Porfolio"
+title: "Portfolio"
 categories: Who_am_I
 
 author_profile: false
