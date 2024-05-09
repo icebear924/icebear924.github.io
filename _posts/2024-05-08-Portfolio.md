@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Portfolio"
-categories: Who_am_I
+categories: portfolio
 
 author_profile: false
 typora-root-url: ../
