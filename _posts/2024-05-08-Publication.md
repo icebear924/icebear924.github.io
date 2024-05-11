@@ -17,5 +17,5 @@ typora-root-url: ../
 - 나의 역할
 - 출판된 도서 자료 링크
 
-
+<a onclick="window.open('/images/2024-05-08-Publication/SCR-20240512-cbsl.png', 'popup', 'width=600,height=400')" style="color: blue; cursor: pointer;">인증 기관 및 상장</a>
 
