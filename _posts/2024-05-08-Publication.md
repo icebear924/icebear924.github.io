@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publication"
+title: "출판물"
 categories: Portfolio
 
 author_profile: false
