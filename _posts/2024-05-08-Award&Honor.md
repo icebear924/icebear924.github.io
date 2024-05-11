@@ -5,9 +5,9 @@ categories: Portfolio
 author_profile: false
 typora-root-url: ../
 ---
-# 수상이력
+# 수상
 
-## 인공지능 활용 프로젝트
+## 인공지능 활용 프로젝트 최우수상
 
 - **수상 이력**: 인공지능 활용 프로젝트 최우수상 
 
