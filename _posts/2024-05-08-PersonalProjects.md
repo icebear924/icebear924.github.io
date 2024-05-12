@@ -28,7 +28,7 @@ typora-root-url: ../
   - 머신러닝/딥러닝 프레임워크 (TensorFlow, PyTorch, Scikit-learn, darts)
   - 데이터 전처리, 분석 및 시각화 도구 (OpenCV, Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - **프로젝트** **기간**: 2024.01-진행중
-- **프로젝트** **목표**: 다변량 시계열에 비해 다중 시계열 분석이 가지는 장점에 대해 분석하고자 함
+- **프로젝트** **목표**:  다중 시계열 분석 실무 적용
 - **나의** **역할과** **기여**: 계획, 설계, 개발 모든 단계 전담
 - **결과** **및** **성과**: 진행중
 - **프로젝트** **링크**: <a href="https://product.kyobobook.co.kr/detail/S000212925450" target="_blank">소스 코드 코랩 링크</a>
