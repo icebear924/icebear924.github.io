@@ -33,7 +33,7 @@ typora-root-url: ../
 - **결과** **및** **성과**: 진행중
 - **프로젝트** **링크**: <a href="https://colab.research.google.com/drive/1-11ouTzNomd_i6Ii7k4Y_w0StR5NOgl0?usp=sharing" target="_blank">소스 코드 코랩 링크</a>
 
-## whisper API를 응용한 STT 자막 생성기
+## Whisper API를 응용한 STT 자막 생성기
 
 - **프로젝트** **명칭**: STT 자막 생성
 - **사용** **기술**: 
