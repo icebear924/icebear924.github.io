@@ -30,6 +30,8 @@ typora-root-url: ../
   
   <a onclick="window.open('/images/2024-05-08-스터디&강의활동/SCR-20240511-tfvu-3.png', 'popup', 'width=600,height=400')" style="color: blue; cursor: pointer;">모집 게시물 사진 첨부</a>
 
+- **스터디 발표 자료 링크**:  첨부 예정
+
 ## AI 기초 강의 (회사 워크샵)
 
 - **강의 자료 제목**: '6가지 사례로 알아보는 금융분야 AI 활용'
