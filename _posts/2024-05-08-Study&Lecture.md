@@ -30,7 +30,9 @@ typora-root-url: ../
   
   <a onclick="window.open('/images/2024-05-08-스터디&강의활동/SCR-20240511-tfvu-3.png', 'popup', 'width=600,height=400')" style="color: blue; cursor: pointer;">모집 게시물 사진 첨부</a>
 
-- **스터디 발표 자료 링크**:  첨부 예정
+- **스터디 발표 자료 링크**: <a href="https://www.dropbox.com/scl/fi/922chax031pfxmdn55d3x/week7.pptx?rlkey=he0qfdhzdg8wn7i7c765lbyrb&dl=0" target="_blank">스터디 자료 링크</a>
+
+
 
 ## AI 기초 강의 (회사 워크샵)
 
