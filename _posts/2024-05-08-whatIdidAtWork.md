@@ -133,20 +133,3 @@ AWS RDS를 이용한 데이터베이스 관리 및 백업.
 프로젝트 완료 후 피드백 및 후속 개선 작업.
 프로젝트의 비즈니스 영향 및 ROI 분석.
 
-
-
-
-## 최우수 훈련생
-
-- **수상 이력**: 인공지능 활용 프로젝트 최우수 훈련생
-
-- **교육 내용**: Python, Git, Colab, AWS, OpenCV, pyQt, TensorFlow, PyTorch
-
-- **교육 기관**:  삼성 자사 '멀티캠퍼스'
-
-- **교육 기간**: 2023.01-2023.07
-
-- **인증 기관 및 상장:**  
-
-  <a onclick="window.open('/images/2024-05-08-수상이력/SCR-20240512-bcpu.png', 'popup', 'width=600,height=400')" style="color: blue; cursor: pointer;">인증 기관 및 상장</a>
-
