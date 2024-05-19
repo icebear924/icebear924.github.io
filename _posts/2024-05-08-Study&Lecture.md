@@ -32,8 +32,6 @@ typora-root-url: ../
 
 - **스터디 발표 자료 링크**: <a href="https://www.dropbox.com/scl/fi/922chax031pfxmdn55d3x/week7.pptx?rlkey=he0qfdhzdg8wn7i7c765lbyrb&dl=0" target="_blank">스터디 자료 링크</a>
 
-
-
 ## AI 기초 강의 (회사 워크샵)
 
 - **강의 자료 제목**: '6가지 사례로 알아보는 금융분야 AI 활용'
