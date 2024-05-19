@@ -35,7 +35,7 @@ typora-root-url: ../
 
 ## 최우수 훈련생
 
-- **수상 이력**: 인공지능 활용 프로젝트 최우수 훈련생
+- **수상 이력**: AI 서비스 개발자 교육과정 최우수 훈련생
 
 - **교육 내용**: Python, Big Data 분석, 머신러닝/딥러닝
 
@@ -43,6 +43,6 @@ typora-root-url: ../
 
 - **교육 기간**: 2023.01-2023.07
 
-- **인증 기관 및 상장:**  ![SCR-20240519-nphj](/images/2024-05-08-Award&Honor/SCR-20240519-nphj.png)
+- **인증 기관 및 상장:**  
 
   <a onclick="window.open('/images/2024-05-08-Award&Honor/SCR-20240519-nphj.png', 'popup', 'width=600,height=400')" style="color: blue; cursor: pointer;">인증 기관 및 상장</a>
