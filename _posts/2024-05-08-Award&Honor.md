@@ -7,6 +7,20 @@ typora-root-url: ../
 ---
 # 수상
 
+## 최우수 훈련생
+
+- **수상 이력**: AI 서비스 개발자 교육과정 최우수 훈련생
+
+- **교육 내용**: Python, Big Data 분석, 머신러닝/딥러닝
+
+- **교육 기관**:  멀티캠퍼스(삼성 계열 기업교육 전문 기업)
+
+- **교육 기간**: 2023.01-2023.07
+
+- **인증 기관 및 상장:**  
+
+  <a onclick="window.open('/images/2024-05-08-Award&Honor/SCR-20240519-nphj.png', 'popup', 'width=600,height=400')" style="color: blue; cursor: pointer;">인증 기관 및 상장</a>
+
 ## 인공지능 활용 프로젝트 최우수상
 
 - **수상 이력**: 인공지능 활용 프로젝트 최우수상 
@@ -32,17 +46,3 @@ typora-root-url: ../
 - **인증 기관 및 상장:**  
 
   <a onclick="window.open('/images/2024-05-08-수상이력/SCR-20240512-bcpu.png', 'popup', 'width=600,height=400')" style="color: blue; cursor: pointer;">인증 기관 및 상장</a>
-
-## 최우수 훈련생
-
-- **수상 이력**: AI 서비스 개발자 교육과정 최우수 훈련생
-
-- **교육 내용**: Python, Big Data 분석, 머신러닝/딥러닝
-
-- **교육 기관**:  멀티캠퍼스(삼성 계열 기업교육 전문 기업)
-
-- **교육 기간**: 2023.01-2023.07
-
-- **인증 기관 및 상장:**  
-
-  <a onclick="window.open('/images/2024-05-08-Award&Honor/SCR-20240519-nphj.png', 'popup', 'width=600,height=400')" style="color: blue; cursor: pointer;">인증 기관 및 상장</a>
