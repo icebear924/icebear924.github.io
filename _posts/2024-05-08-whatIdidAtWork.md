@@ -13,7 +13,7 @@ published: false
 * 프로젝트 명칭: 위기인식지수 AI 경보 시스템 구축
 
 * 사용 기술:
--프로그래밍 언어 (Python, dart)
+-프로그래밍 언어 (Python)
 -머신러닝/딥러닝 프레임워크 (TensorFlow, PyTorch, Scikit-learn, darts)
 -데이터 전처리, 분석 및 시각화 도구 (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 
