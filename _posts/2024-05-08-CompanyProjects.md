@@ -22,7 +22,7 @@ typora-root-url: ../
   - 계획: 프로젝트 초기 단계에서 분석 접근 방법을 정의하고, 데이터 수집 및 전처리 계획을 수립함
   - 설계: AI 모델 설계를 주도함
   - 개발: TensorFlow와 PyTorch 및 Scikit-learn을 활용하여 머신러닝/딥러닝 모델을 구현 및 평가함
-  - 결과: 데이터 부족과 노이즈 문제를 해결하였으며, 현재는 새로운 접근방식을 이용하여 분석 진행중
+  - 결과: 현재 다양한 방법으로 연구 진행 중
 
 - **프로젝트** **링크**: <a href="https://www.dropbox.com/scl/fi/6r8z49ocoqvk38i54ftek/.pptx?rlkey=xcsl224fo7mhryxz5d1frczmv&dl=0" target="_blank">연구 및 분석 자료 일부</a> (보안상의 이유로 일부만 공개)
 
