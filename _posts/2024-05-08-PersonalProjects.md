@@ -18,7 +18,7 @@ typora-root-url: ../
 - **프로젝트** **목표**: Dynamic Time Warping을 이용한 주가 예측 분석
 - **나의** **역할과** **기여**: 계획, 설계, 개발 모든 단계 전담
 - **결과** **및** **성과**: 다양한 분석 실험 중
-- **프로젝트** **링크**: <a href="https://colab.research.google.com/drive/1bSN3uj-xhHfhUc9t8DO8nWnnkSI-uVkY?usp=sharing" target="_blank"><여러 분석 실험 중 일부>코랩 링크</a>
+- **프로젝트** **링크**: <a href="https://colab.research.google.com/drive/1bSN3uj-xhHfhUc9t8DO8nWnnkSI-uVkY?usp=sharing" target="_blank"><패턴 분석 실험 중 일부>코랩 링크</a>
 
 ## 시계열 데이터 분석: TFT를 이용한 global 변수 반영
 
