@@ -6,7 +6,7 @@ categories: Portfolio
 author_profile: false
 typora-root-url: ../
 ---
-# 기여 도서 목록
+# 참여 도서 목록
 
 ## 시계열 예측과 분석: 통계적 모형·혼합형 모형·딥러닝 모형
 
