@@ -13,7 +13,7 @@ typora-root-url: ../
 
 - **사용된 기술과 도구**: 
   
-  - 개발 툴: python, 머신러닝/딥러닝 프레임워크
+  - 개발 툴: Python, 머신러닝/딥러닝 프레임워크
   - 발표 툴: powerpoint
   - 영상 툴: youtube, final cut
   - 협업 툴: Jira
